@@ -1,4 +1,8 @@
-# Dynamics 365 Business Central User Group Auckland  **CODE OF CONDUCT**
+# Dynamics 365 Business Central User Group Auckland  
+
+
+**CODE OF CONDUCT**
+
 ![AzureUserGroupSundsvall](https://secure.meetupstatic.com/photos/event/6/1/1/7/600_484584855.jpeg)
 
 * **Be nice and friendly**
